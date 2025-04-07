@@ -7,9 +7,15 @@ paginate: true
 
 # Introdução a Git
 
-_Lívia Lelis_  
+_Lívia Lelis_ :)
 @justlelis (Discord e Telegram)  
 [lelis.dev](https://lelis.dev)
+
+---
+
+## Aula disponível no GitHub
+
+<https://github.com/LiviaLelis/git-lesson-fog>
 
 ---
 
